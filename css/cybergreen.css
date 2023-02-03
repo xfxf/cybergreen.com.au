@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato';
+  font-family: "elza-text", sans-serif;
 }
 
 h1,
@@ -186,7 +186,7 @@ header.masthead h1 {
 
 header.masthead h2 {
   font-size: 1.5rem;
-  font-family: 'Lato';
+  font-family: "elza-text", sans-serif;
 }
 
 @media (min-width: 992px) {
