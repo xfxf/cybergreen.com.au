@@ -1,0 +1,7 @@
+[submodule "tools/countdown-widget"]
+	path = tools/countdown-widget
+	url = https://gitlab.com/pavelow/countdown-widget.git
+
+[submodule "tools/pyconline-schedule"]
+	path = tools/pyconline-schedule
+	url = https://github.com/xfxf/pyconline-schedule-slide.git
