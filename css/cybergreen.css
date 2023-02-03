@@ -105,8 +105,9 @@ section h2 {
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
+  font-family: "elza-text", sans-serif;
   font-weight: 700;
-  font-family: 'Nunito';
+  font-style: normal;
 }
 
 #mainNav .navbar-brand {
